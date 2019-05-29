@@ -20,7 +20,7 @@ const setId = (post) => {
     }
   })
   
-  let beginId = Math.max.apply(null, idList)
+  let beginId = Math.max.apply(null, idList) + 1
   
   missingId.forEach( (fpath,index) =>{
     let content = fm.parse(fs.readFileSync(fpath, "utf8"))
