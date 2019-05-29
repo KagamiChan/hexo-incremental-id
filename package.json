@@ -1,6 +1,6 @@
 {
   "name": "hexo-incremental-id",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Ensures incremental id for pages",
   "main": "index",
   "scripts": {
