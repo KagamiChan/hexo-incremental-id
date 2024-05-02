@@ -16,7 +16,7 @@ npm install --save hexo-incremental-id
 
 ## FAQ
 ### This script is ugly
-I agree with you. if you have better / elegant way to handle a unique incremental id, please contact me.
+I agree with you. You may check this article for a better solution(I did not verify though): https://lqwang.net/32.html
 
 ### No test?
 No, no test. I've wasted several hours reading hexo docs and writing this script, I can't afford more. And this script is so brute-force that no one is supposed to use it, except me.
